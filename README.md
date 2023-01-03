@@ -8,9 +8,6 @@
 Support Me ❤️
   - BTC: `bc1qrfkdvmsptmu35g7mycyhyzkyt8la0sfj8yj2lm`
 
-Checkout my new project
-  - http://desenvolvendosoftware.com.br/
-
 <!--
 **ppenna/ppenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
