@@ -5,6 +5,10 @@
 - 🔨 I’m currently working on a [libOS for Datacenters](https://github.com/demikernel)
 - 📫 Reach me by sending an e-mail to [ppenna@microsoft.com](mailto:ppenna@microsoft.com)
 
+Check out my blog 💻
+  - [http://desenvolvendosoftware.com.br](http://desenvolvendosoftware.com.br)  (Portuguese)
+
+
 Support Me ❤️
   - BTC: `bc1qrfkdvmsptmu35g7mycyhyzkyt8la0sfj8yj2lm`
 
