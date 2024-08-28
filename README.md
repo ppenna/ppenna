@@ -1,8 +1,8 @@
 ### Hello, World! 👋
 
 - 😃 I'm a Research Software Engineer at [Microsoft Research](https://aka.ms/ppenna)
-- 🔭 I have expertise in [Distributed Operating Systems](https://github.com/nanvix)
-- 🔨 I’m currently working on a [libOS for Datacenters](https://github.com/demikernel)
+- 🔨 I’m currently working on [Nanvix - A Microkernel Research Operating System](https://github.com/nanvix)
+- 🔭 I have expertise in [Distributed Operating Systems](https://scholar.google.com/citations?hl=pt-BR&user=Ze8gw_EAAAAJ)
 - 📫 Reach me by sending an e-mail to [ppenna@microsoft.com](mailto:ppenna@microsoft.com)
 
 Check out my blog 💻
