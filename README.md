@@ -5,9 +5,6 @@
 - 🔭 I have expertise in [Distributed Operating Systems](https://scholar.google.com/citations?hl=pt-BR&user=Ze8gw_EAAAAJ)
 - 📫 Reach me by sending an e-mail to [ppenna@microsoft.com](mailto:ppenna@microsoft.com)
 
-Support Me ❤️
-  - BTC: `bc1qrfkdvmsptmu35g7mycyhyzkyt8la0sfj8yj2lm`
-
 <!--
 **ppenna/ppenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
